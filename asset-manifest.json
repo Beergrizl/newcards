@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/newcards/static/css/main.3786af64.chunk.css",
+    "main.js": "/newcards/static/js/main.969d5deb.chunk.js",
+    "main.js.map": "/newcards/static/js/main.969d5deb.chunk.js.map",
+    "runtime-main.js": "/newcards/static/js/runtime-main.b18d09b1.js",
+    "runtime-main.js.map": "/newcards/static/js/runtime-main.b18d09b1.js.map",
+    "static/js/2.2a6922d3.chunk.js": "/newcards/static/js/2.2a6922d3.chunk.js",
+    "static/js/2.2a6922d3.chunk.js.map": "/newcards/static/js/2.2a6922d3.chunk.js.map",
+    "static/js/3.127a6dcb.chunk.js": "/newcards/static/js/3.127a6dcb.chunk.js",
+    "static/js/3.127a6dcb.chunk.js.map": "/newcards/static/js/3.127a6dcb.chunk.js.map",
+    "index.html": "/newcards/index.html",
+    "static/css/main.3786af64.chunk.css.map": "/newcards/static/css/main.3786af64.chunk.css.map",
+    "static/js/2.2a6922d3.chunk.js.LICENSE.txt": "/newcards/static/js/2.2a6922d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b18d09b1.js",
+    "static/js/2.2a6922d3.chunk.js",
+    "static/css/main.3786af64.chunk.css",
+    "static/js/main.969d5deb.chunk.js"
+  ]
+}
